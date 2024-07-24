@@ -21,6 +21,8 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
+          <li>2回目の編集</li>
+          <li>3回目の編集</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
